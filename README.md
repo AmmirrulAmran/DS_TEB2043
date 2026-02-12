@@ -12,14 +12,14 @@
 
 | 📅 Date   | 📝 Task                 | 📂 File                        | 🧐 Description                                             |
 |-----------|------------------------|-------------------------------|-----------------------------------------------------------|
-| TBD       | 🏋️ BMI Calculator      | [Task 1.R](Lab%202/Task%201.R) | Calculate BMI and categorize as Underweight, Normal, Overweight, or Obese |
-| TBD       | 🔤 String Comparison   | [Task 2.R](Lab%202/Task%202.R) | Compare two strings (case-insensitive) and check if they are similar |
-| TBD       | 📱 Contact Info Display| [Task 3.R](Lab%202/Task%203.R) | Display name in uppercase and partially masked phone number |
+| 13 Feb       | 🏋️ BMI Calculator      | [Task 1.R](Lab%202/Task%201.R) | Calculate BMI and categorize as Underweight, Normal, Overweight, or Obese |
+| 13 Feb       | 🔤 String Comparison   | [Task 2.R](Lab%202/Task%202.R) | Compare two strings (case-insensitive) and check if they are similar |
+| 13 Feb       | 📱 Contact Info Display| [Task 3.R](Lab%202/Task%203.R) | Display name in uppercase and partially masked phone number |
 
 ## 📊 Lab 3 - Vectors & Lists
 
 | 📅 Date   | 📝 Task                 | 📂 File                        | 🧐 Description                                             |
 |-----------|------------------------|-------------------------------|-----------------------------------------------------------|
-| TBD       | 🎓 Grade Assignment    | [Task 1.R](Lab%203/Task%201.R) | Assign letter grades to scores and count pass/fail status |
-| TBD       | 🏆 Student Score Analysis | [Task 2.R](Lab%203/Task%202.R) | Find highest, lowest, and average scores from student list |
-| TBD       | 🧪 Multi-Subject Analysis | [Task 3.R](Lab%203/Task%203.R) | Analyze Chemistry and Physics scores, identify top students and failures |
+| 13 Feb       | 🎓 Grade Assignment    | [Task 1.R](Lab%203/Task%201.R) | Assign letter grades to scores and count pass/fail status |
+| 13 Feb       | 🏆 Student Score Analysis | [Task 2.R](Lab%203/Task%202.R) | Find highest, lowest, and average scores from student list |
+| 13 Feb       | 🧪 Multi-Subject Analysis | [Task 3.R](Lab%203/Task%203.R) | Analyze Chemistry and Physics scores, identify top students and failures |
