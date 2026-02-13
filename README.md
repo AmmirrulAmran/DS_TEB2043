@@ -23,3 +23,11 @@
 | 13 Feb       | 🎓 Grade Assignment    | [Task 1.R](Lab%203/Task%201.R) | Assign letter grades to scores and count pass/fail status |
 | 13 Feb       | 🏆 Student Score Analysis | [Task 2.R](Lab%203/Task%202.R) | Find highest, lowest, and average scores from student list |
 | 13 Feb       | 🧪 Multi-Subject Analysis | [Task 3.R](Lab%203/Task%203.R) | Analyze Chemistry and Physics scores, identify top students and failures |
+
+## 📊 Lab 4 - Matrices & Arrays
+
+| 📅 Date   | 📝 Task                 | 📂 File                        | 🧐 Description                                             |
+|-----------|------------------------|-------------------------------|-----------------------------------------------------------|
+| 13 Feb       | 📈 Age Distribution    | [Task 1.R](Lab%204/Task%201.R) | Analyze age data with frequency tables and binned ranges |
+| 13 Feb       | 🔢 Matrix Operations   | [Task 2.R](Lab%204/Task%202.R) | Create, transpose, and perform arithmetic operations on matrices |
+| 13 Feb       | 🎲 Array Manipulation  | [Task 3.R](Lab%204/Task%203.R) | Create 3D arrays and extract specific elements by indexing |
