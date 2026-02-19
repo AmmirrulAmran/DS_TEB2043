@@ -31,3 +31,10 @@
 | 13 Feb       | 📈 Age Distribution    | [Task 1.R](Lab%204/Task%201.R) | Analyze age data with frequency tables and binned ranges |
 | 13 Feb       | 🔢 Matrix Operations   | [Task 2.R](Lab%204/Task%202.R) | Create, transpose, and perform arithmetic operations on matrices |
 | 13 Feb       | 🎲 Array Manipulation  | [Task 3.R](Lab%204/Task%203.R) | Create 3D arrays and extract specific elements by indexing |
+
+## 🏆 Lab Project 1 - Data Cleaning
+
+| 📅 Date   | 📝 Task                    | 📂 File                                                                                         | 🧐 Description                                                                                                                                          |
+|-----------|---------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19 Feb    | 🧹 Dataset Cleaning Script | [R Script.R](Lab%20Project/Lab%20Project%201/R%20Script.R)                                     | Full data cleaning pipeline: handles mixed delimiters, duplicates, missing values, date formatting, currency normalisation, and outlier capping         |
+| 19 Feb    | 📁 Cleaned Dataset         | [CleanedDataset.csv](Lab%20Project/Lab%20Project%201/CleanedDataset.csv)                       | Output of the cleaning script — 47 rows, 8 columns, fully cleaned and imputed student enrollment data                                                  
