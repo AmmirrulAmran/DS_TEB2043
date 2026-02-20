@@ -32,6 +32,14 @@
 | 13 Feb       | 🔢 Matrix Operations   | [Task 2.R](Lab%204/Task%202.R) | Create, transpose, and perform arithmetic operations on matrices |
 | 13 Feb       | 🎲 Array Manipulation  | [Task 3.R](Lab%204/Task%203.R) | Create 3D arrays and extract specific elements by indexing |
 
+## 📊 Lab 5 - Functions & Loops
+
+| 📅 Date   | 📝 Task                 | 📂 File                        | 🧐 Description                                             |
+|-----------|------------------------|-------------------------------|-----------------------------------------------------------|
+| 20 Feb       | 📅 Leap Year Checker   | [Task 1.R](Lab%205/Task%201.R) | Check whether a given year is a leap year using divisibility rules |
+| 20 Feb       | 🔢 Cube Number Display | [Task 2.R](Lab%205/Task%202.R) | Display the cube of each number from 1 up to a given integer |
+| 20 Feb       | 💪 Armstrong Number    | [Task 3.R](Lab%205/Task%203.R) | Check if a number is an Armstrong number by summing digits raised to the power of digit count |
+
 ## 🏆 Lab Project 1 - Data Cleaning
 
 | 📅 Date   | 📝 Task                    | 📂 File                                                                                         | 🧐 Description                                                                                                                                          |
